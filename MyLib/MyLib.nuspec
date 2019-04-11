@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://www.spoogle.wom</licenseUrl>
+    <projectUrl>http://www.spoogle.wom</projectUrl>
+    <iconUrl>http://www.spoogle.wom</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>I have no legs</description>
+    <releaseNotes>Hest hest hesthest.</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>Stags spags</tags>
+  </metadata>
+</package>
