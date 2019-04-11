@@ -14,5 +14,17 @@
     <releaseNotes>Hest hest hesthest.</releaseNotes>
     <copyright>Copyright 2019</copyright>
     <tags>Stags spags</tags>
+    <!--<dependencies>
+      <dependency id="MyLib.Common" version="[1,2)" include="lib"></dependency>
+    </dependencies>-->
+    <references>
+      <reference file="MyLib.dll"></reference>
+      <reference file="MyLib.Common.dll"></reference>
+    </references>
   </metadata>
+
+  <files>
+    <file src="bin\Debug\MyLib.Common.dll" target="lib\net461" />
+    <file src="bin\Debug\MyLib.dll" target="lib\net461" />
+  </files>
 </package>

@@ -1,13 +1,9 @@
 ﻿using System;
+using MyLib.Common;
 
 namespace MyLib
 {
-    public interface ILoggingService
-    {
-        void Log(string message);
-    }
-
-    internal class LoggingService : ILoggingService
+    public class LoggingService : ILoggingService
     {
         public void Log(string message)
         {
